@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
 </p>
-<h1 align="center"><b>Python for Machine Learning</b></h>
+<h1 align="center"><b>Methodology and Scientific Research</b></h>
 
 ## Student
  MSSV          | Full Name             | Github                    | Email                   |
