@@ -9,17 +9,17 @@
 ## Student
  MSSV          | Full Name             | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
- 19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
+ 19521994      | Ngo Thanh Phat        |https://github.com/RobertNgo19  |thanhphat352@gmail.com   |
  
  ## COURSE INTRODUCTION
 * **Subject Title:** Methodology and Scientific Research
 * **Subject Code:** CS519
-* **Class Code:** CS519.N11 - VN
-* **Lecturers** : PGS.TS Lê Đình Duy
+*  Hello everyone, in this repo I introduce Methodology and Scientific Research. This is one of the best practices for me to start my AI career.
+> Note: All knowledge **belonging to UIT** just use for study and research only
 
  ## Programing Language: Python
  ## Project: Proposal for Dictionary-guided Scene Text Recognition
  
- - File Project: [Project](https://github.com/RobertNgo19/Methodology-and-Scientific-Researc_Subject/tree/main/Project)
- - Description: Research topics on the CVPR forum and make proposals for it
+ ### - File Project: [Project](https://github.com/RobertNgo19/Methodology-and-Scientific-Researc_Subject/tree/main/Project)
+ ### - Description: Research topics on the CVPR forum and make proposals for it
 
