@@ -20,6 +20,6 @@
  ## Programing Language: Python
  ## Project: Proposal for Dictionary-guided Scene Text Recognition
  
- ### - Project: [Project](https://github.com/RobertNgo19/Methodology-and-Scientific-Researc_Subject/tree/main/Project)
+ ### - [Project](https://github.com/RobertNgo19/Methodology-and-Scientific-Researc_Subject/tree/main/Project)
  ### - Description: Research topics on the CVPR forum and make proposals for it
 
