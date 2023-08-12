@@ -12,13 +12,13 @@
  19521994      | Ngo Thanh Phat        |https://github.com/RobertNgo19  |thanhphat352@gmail.com   |
  
  ## COURSE INTRODUCTION
-* **Subject Title:** Methodology and Scientific Research
-* **Subject Code:** CS519
+* **Title:** Methodology and Scientific Research
+* **Code:** CS519
 *  Hello everyone, in this repo I introduce Methodology and Scientific Research. This is one of the best practices for me to start my AI career.
 > Note: All knowledge **belonging to UIT** just use for study and research only
 
  ## Programing Language: Python
- ## Project: Proposal for Dictionary-guided Scene Text Recognition
+ ## Project: Proposal for Dictionary-Guided Scene Text Recognition
  
  ### [Project](https://github.com/RobertNgo19/Methodology-and-Scientific-Researc_Subject/tree/main/Project)
  ### Description: Research topics on the CVPR forum and make proposals for it
